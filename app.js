@@ -8,7 +8,6 @@ var passport = require('passport')
 var LocalStrategy = require('passport-local').Strategy
 var express = require('express')
 var app = express()
-var util = require('util')
 
 
 var PORT = 8000
